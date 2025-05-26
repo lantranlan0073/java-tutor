@@ -40,3 +40,5 @@ public class MyImageViewer extends JFrame {
 //Right-click resources > Import > File System
 
 //Right-click resources > Build Path > Use as Source Folder
+
+//https://chatgpt.com/share/6833fb3a-38c8-8003-90d4-504e463a8f37
