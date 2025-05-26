@@ -78,5 +78,4 @@ public class BubbleSortEasyUnderstand {
         System.out.println("After sorting:  " + java.util.Arrays.toString(arr));
     }
 	}
-//https://chatgpt.com/c/6821b336-28c4-8003-a352-32a442e513f5
-//https://chatgpt.com/c/6828297b-a740-8003-b89a-49c320ba4148
+//https://chatgpt.com/share/68283652-aed4-8003-b01e-79662db4239f
